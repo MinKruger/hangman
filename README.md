@@ -1,2 +1,2 @@
-# hangman
-Another non-professional project
+# Hangman
+Another non-professional project for university
